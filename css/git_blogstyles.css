@@ -4,8 +4,15 @@ body {
 
 h1 {
     color: rgb(94, 94, 253);
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 * {
     margin: 5px;
+}
+
+p {
+    margin-left: 20px;
 }

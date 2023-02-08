@@ -19,17 +19,18 @@
 }
 
 #header {
-    background-color: rgb(77, 190, 145);
+    background-color: rgb(73, 22, 85);
     margin: 0;
     padding: 0.5em;
     text-align: left;
     color: white;
     font-weight: bold;
     font-size: 30px;
+    text-align: center;
 }
 
 #post h2 {
-    color: rgb(47, 115, 88);
+    color: rgb(133, 69, 143);
     margin-bottom: 15px;
     text-align: left;
     padding: 1em;

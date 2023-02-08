@@ -19,7 +19,7 @@
 }
 
 #header {
-    background-color: rgb(77, 190, 145);
+    background-color: rgb(209, 183, 36);
     margin: 0;
     padding: 0.5em;
     text-align: left;
@@ -29,7 +29,7 @@
 }
 
 #post h2 {
-    color: rgb(47, 115, 88);
+    color: rgb(135, 113, 51);
     margin-bottom: 15px;
     text-align: left;
     padding: 1em;
@@ -41,4 +41,5 @@
     text-align: left;
     padding-left: 1em;
     padding-bottom: 1em;
+    padding-right: 1em;
 }
